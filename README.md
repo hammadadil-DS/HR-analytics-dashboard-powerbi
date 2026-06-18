@@ -46,9 +46,9 @@ The dashboard provides a comprehensive view of workforce performance and employe
 
 ## Files Included
 
-* HR Analytics Dashboard.pbix
-* HR Dataset.xlsx
-* Dashboard Screenshot.png
+* HR Analytics Dashboard.pbit
+* HR_Analytics-4.csv
+* HR-Analytics-dashboard.png
 
 ![Dashboard](HR-analytics-dashboard.png)
 
