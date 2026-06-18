@@ -51,7 +51,7 @@ The dashboard provides a comprehensive view of workforce performance and employe
 * Dashboard Screenshot.png
 
 ![Dashboard]
-(HR-analtics-dashboard.png)
+(HR-analytics-dashboard.png)
 
 
 
