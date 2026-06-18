@@ -50,8 +50,7 @@ The dashboard provides a comprehensive view of workforce performance and employe
 * HR Dataset.xlsx
 * Dashboard Screenshot.png
 
-![Dashboard]
-(HR-analytics-dashboard.png)
+![Dashboard](HR-analytics-dashboard.png)
 
 
 
