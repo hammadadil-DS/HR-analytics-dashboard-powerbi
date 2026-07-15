@@ -111,9 +111,9 @@ HR-Analytics-Dashboard/
 
 ## Dashboard Preview
 
-!(Page1-Executive-Summary.png)
-!(Page2-Attrition-Analysis.png)
-!(Page3-Department-Performance.png)
+![dashboard](Page1-Executive-Summary.png)
+![dashboard](Page2-Attrition-Analysis.png)
+![dashboard](Page3-Department-Performance.png)
 
 
 ---
