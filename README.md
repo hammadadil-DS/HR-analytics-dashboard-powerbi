@@ -111,12 +111,9 @@ HR-Analytics-Dashboard/
 
 ## Dashboard Preview
 
-! [Page-1] (Page 1- Executive Summary.png)
-
-
-! [Page-2] (Page 2 - Attrition Analysis.png)
-
-! [Page-3] (Page 3 Department Performance.png)
+! [Page-1](Page 1- Executive Summary.png)
+! [Page-2](Page 2 - Attrition Analysis.png)
+! [Page-3](Page 3 Department Performance.png)
 
 
 ---
